@@ -48,18 +48,31 @@ To evaluate the chatbot, you can extend the notebook to include these metrics af
 
 This releted screenshots of interactions with the chatbot via the Gradio interface. 
 
-![page with user instruction on how to use AgriFarm chatbot](<img width="950" alt="Screenshot 2025-06-22 at 10 56 16" src="https://github.com/user-attachments/assets/92dcf6b4-14d6-4156-8dce-7c493823de40" />
-)
-![Chat Interaction Examples1](<img width="1221" alt="Screenshot 2025-06-22 at 19 03 51" src="https://github.com/user-attachments/assets/f73827df-4268-4226-89d8-f56c0572faf6" />
-)
-![Chat Interaction Examples2](<img width="1221" alt="Screenshot 2025-06-22 at 19 04 05" src="https://github.com/user-attachments/assets/d29d75c0-e596-408f-b8d7-7ff537e3c6e4" />
-)
-![Chat Interaction Examples3](<img width="1221" alt="Screenshot 2025-06-22 at 19 04 12" src="https://github.com/user-attachments/assets/4306e704-8183-47ee-a58c-71add1a243ac" />
-)
-![Chat Interaction Examples4](<img width="1221" alt="Screenshot 2025-06-22 at 19 04 18" src="https://github.com/user-attachments/assets/a7aaf0b8-eab6-4a45-8649-09ad660bec4d" />
-)
-![Chat Interaction when user asks irrevant questions](<img width="1221" alt="Screenshot 2025-06-22 at 19 04 27" src="https://github.com/user-attachments/assets/23fbea93-c41d-4f04-8776-94019393db12" />
-)
+## User Instructions and Chat Interaction Examples
+
+### Figure 5: User Instructions for AgriFarm Chatbot
+![User Instructions for AgriFarm Chatbot](https://github.com/user-attachments/assets/92dcf6b4-14d6-4156-8dce-7c493823de40)
+*Description: Screenshot showing instructions on how to use the AgriFarm chatbot, including input methods and expected responses.*
+
+### Figure 6: Chat Interaction Example 1
+![Chat Interaction Example 1](https://github.com/user-attachments/assets/f73827df-4268-4226-89d8-f56c0572faf6)
+*Description: Example of a successful interaction where the chatbot responds to a query about planting maize.*
+
+### Figure 7: Chat Interaction Example 2
+![Chat Interaction Example 2](https://github.com/user-attachments/assets/d29d75c0-e596-408f-b8d7-7ff537e3c6e4)
+*Description: Example of a chatbot response providing advice on fertilizer use for beans.*
+
+### Figure 8: Chat Interaction Example 3
+![Chat Interaction Example 3](https://github.com/user-attachments/assets/4306e704-8183-47ee-a58c-71add1a243ac)
+*Description: Example of a chatbot addressing a pest control query for cassava.*
+
+### Figure 9: Chat Interaction Example 4
+![Chat Interaction Example 4](https://github.com/user-attachments/assets/a7aaf0b8-eab6-4a45-8649-09ad660bec4d)
+*Description: Example of a detailed response on crop rotation techniques.*
+
+### Figure 10: Chat Interaction with Irrelevant Question
+![Chat Interaction with Irrelevant Question](https://github.com/user-attachments/assets/23fbea93-c41d-4f04-8776-94019393db12)
+*Description: Example of the chatbot rejecting an out-of-domain query (e.g., "How to code?") with an appropriate message.*
 
 
 ## Requirements
