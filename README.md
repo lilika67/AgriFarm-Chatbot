@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a chatbot for agricultural queries using the AgroQA dataset. The chatbot leverages natural language processing (NLP) techniques and a transformer-based model to provide answers to farming-related questions. The Jupyter Notebook (`AgriFarm_Chatbot.ipynb`) contains the code for data preprocessing, exploratory data analysis, and model training.
+This project implements a chatbot for agricultural queries using the AgroQA dataset. The chatbot leverages natural language processing (NLP) techniques and a transformer-based model to provide answers to farming-related questions. The Jupyter Notebook (`AgriFarm_Chatbot (1).ipynb`) contains the code for data preprocessing, exploratory data analysis, and model training.
 
 ## Technologies Used
 
@@ -21,7 +21,7 @@ The following technologies and libraries are used in this project:
 
 ## Dataset Description
 
-We use the dataset from Kaggle(https://www.kaggle.com/datasets/jonathanomara/agronomic-question-and-answer-dataset).The AgroQA dataset (`AgroQA Dataset.csv`) contains 3,044 entries with the following columns:
+We use the dataset from Kaggle(https://www.kaggle.com/datasets/jonathanomara/agronomic-question-and-answer-dataset) .The AgroQA dataset (`AgroQA Dataset.csv`) contains 3,044 entries with the following columns:
 - **Crop**: The type of crop related to the question (e.g., wheat, rice).
 - **Question**: The agricultural query posed by the user.
 - **Answer**: The corresponding answer to the question.
