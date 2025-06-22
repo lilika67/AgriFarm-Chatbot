@@ -65,22 +65,22 @@ This releted screenshots of interactions with the chatbot via the Gradio interfa
 ### Figure 7: Chat Interaction Example 2
 
 ![Chat Interaction Example 2](https://github.com/user-attachments/assets/d29d75c0-e596-408f-b8d7-7ff537e3c6e4)
-*Description: Example of a chatbot response providing advice on fertilizer use for beans.*
+*Description: Example of a AgroFarm chatbot response providing advice on how to control pest.*
 
 ### Figure 8: Chat Interaction Example 3
 
 ![Chat Interaction Example 3](https://github.com/user-attachments/assets/4306e704-8183-47ee-a58c-71add1a243ac)
-*Description: Example of a chatbot addressing a pest control query for cassava.*
+*Description: Example of AgroFarm chatbot addressing a pest control query for cassava.*
 
 ### Figure 9: Chat Interaction Example 4
 
 ![Chat Interaction Example 4](https://github.com/user-attachments/assets/a7aaf0b8-eab6-4a45-8649-09ad660bec4d)
-*Description: Example of a detailed response on crop rotation techniques.*
+*Description: Example of a detailed response on good fertilizer.*
 
 ### Figure 10: Chat Interaction with Irrelevant Question
 
 ![Chat Interaction with Irrelevant Question](https://github.com/user-attachments/assets/23fbea93-c41d-4f04-8776-94019393db12)
-*Description: Example of the chatbot rejecting an out-of-domain query (e.g., "How to code?") with an appropriate message.*
+*Description: Example of the AgroFarm  rejecting an out-of-domain query (e.g., "How to code?,"How is whether like today?") with an appropriate message.*
 
 
 ## Requirements
