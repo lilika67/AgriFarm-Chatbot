@@ -52,7 +52,6 @@ This releted screenshots of interactions with the chatbot via the Gradio interfa
 
 ### Figure 5: User Instructions for AgriFarm Chatbot
 
-#### Figure 5: User Instructions for AgriFarm Chatbot
 
 ![User Instructions for AgriFarm Chatbot](https://github.com/user-attachments/assets/8fcb100c-444b-4389-a972-8e790bed32e8)
 *Description: Screenshot showing instructions on how to use the AgriFarm chatbot, including input methods and expected responses.*
